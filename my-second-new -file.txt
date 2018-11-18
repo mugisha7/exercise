@@ -1,0 +1,5 @@
+THIS ONE CONTAIN SOME COD FO C PROGRAMMING
+#include<stdio.h>
+void main{
+printf("HELLO THERE THIS IS C PROGREMMING");
+}
