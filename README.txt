@@ -1,5 +1,7 @@
 public class  exericise{
 	public static void main(String[]jhkjjh){
-	system.out .println("HELLO THERE ");
+	String b="HELLO THERE";
+	system.out .println(b);
+	*/by using valaibles
 	}
 }
